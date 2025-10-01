@@ -1,0 +1,10 @@
+{
+  "name": "Meu Ambiente DevContainer",
+  "extensions": [
+    "Live Server",
+    "Error Lens",
+    "Prettier - Code formatter",
+    "Code Runner",
+    "Dracula Theme Official"
+  ]
+}
